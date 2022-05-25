@@ -2,13 +2,13 @@
 
 - routers 資料夾
   - users
-    存放 users 相關 API
+    - 存放 users 相關 API
 
 - app.js
-  入口文件
+  - 入口文件
 
 - database.js
-  連接 MySQL 相關設定檔
+  - 連接 MySQL 相關設定檔
 
 - 相關套件
   - express
