@@ -13,6 +13,7 @@
 - 相關套件
   - express
   - mysql2
+  - cors
 
 - example run
   ```
